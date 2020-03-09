@@ -1,0 +1,35 @@
+.auth__wrapper{
+  margin-top: 50px;
+  min-height: 90vh;
+  display: flex;
+}
+
+.auth-form {
+    max-width: 400px;
+    margin: auto;
+    padding: 1rem;
+    border: 1px solid #D08562;
+    border-radius: 5px;
+  }
+
+  .auth-form h1{
+    font-family: 'Mali', cursive;
+  }
+
+  .login__noAccount, .login__validate, .auth__intro{
+    text-align: center;
+  }
+
+  .auth__intro img{
+    height:60px
+  }
+
+
+  
+  
+  @media (min-width: 768px) {
+    .auth-form {
+      width: 40rem;
+    }
+  }
+  

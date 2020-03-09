@@ -1,0 +1,13 @@
+.logo {
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0.5rem;
+    color: white;
+    display:flex;
+    align-items: center;
+}
+.logo-image{
+    width: 32px;
+    height: 32px;
+    margin-right: 1rem;
+}

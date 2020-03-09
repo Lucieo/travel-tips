@@ -1,0 +1,91 @@
+.feed__status {
+  width: 90%;
+  margin: 1rem auto;
+}
+
+.feed__status form {
+  display: flex;
+  align-items: center;
+}
+
+.feed__status form * {
+  margin: 0 0.5rem;
+}
+
+.feed__control {
+  text-align: center;
+}
+
+.feed__posts{
+  display:flex;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.feed h2, .feed p{
+  text-align: center;
+  font-weight: lighter;
+}
+
+.feed__warning{
+  font-style: italic;
+  font-size: small;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid gray;
+  margin-bottom: 35px;
+  border-radius: 3px;
+  color: gray;
+}
+
+.new-post__preview-image {
+  width: 15rem;
+  height: 7rem;
+}
+
+#feed__hero{
+  min-height: 65vh;
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+
+#feed__hero h1{
+  font-family: 'Mali', cursive;
+  font-weight: 200;
+  font-size: 3rem;
+}
+
+#feed__hero img{
+  max-width: 100%;
+}
+
+.feed-hero__text{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width:30%;
+  text-align:center;
+}
+
+.feed-hero__img{
+  width: 70%;
+}
+
+@media (max-width:768px){
+  .feed-hero__text, .feed-hero__img{
+    width:100%
+  }
+}
+
+@media (min-width: 768px) {
+  .feed__status {
+    width: 30rem;
+  }
+}

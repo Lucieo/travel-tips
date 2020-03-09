@@ -1,0 +1,13 @@
+.mapBoxMap{
+    height: 250px;
+}
+
+.mapBoxMap button{
+    border: none;
+    background: none;
+}
+
+.mapBoxMap__icon{
+    height: 25px;
+    width: 25px;
+} 
