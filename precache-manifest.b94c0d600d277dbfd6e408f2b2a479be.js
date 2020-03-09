@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "26455c3f687db4ce6938",
-    "url": "/travel-tips/static/css/main.97aa886a.chunk.css"
+    "revision": "913a13b783fd76b3f7b6",
+    "url": "/travel-tips/static/css/main.8cde4135.chunk.css"
   },
   {
-    "revision": "26455c3f687db4ce6938",
-    "url": "/travel-tips/static/js/main.26455c3f.chunk.js"
+    "revision": "913a13b783fd76b3f7b6",
+    "url": "/travel-tips/static/js/main.913a13b7.chunk.js"
   },
   {
     "revision": "f6dc2c920c42408592c4",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/travel-tips/static/media/star.7dc6e5d5.svg"
   },
   {
-    "revision": "2a48b35ba2f6a74dcbf3c9e00eb9bd1a",
+    "revision": "a42ee747c7c509d7526283cacd74ab79",
     "url": "/travel-tips/index.html"
   }
 ];

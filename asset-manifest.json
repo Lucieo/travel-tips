@@ -1,7 +1,7 @@
 {
-  "main.css": "/travel-tips/static/css/main.97aa886a.chunk.css",
-  "main.js": "/travel-tips/static/js/main.26455c3f.chunk.js",
-  "main.js.map": "/travel-tips/static/js/main.26455c3f.chunk.js.map",
+  "main.css": "/travel-tips/static/css/main.8cde4135.chunk.css",
+  "main.js": "/travel-tips/static/js/main.913a13b7.chunk.js",
+  "main.js.map": "/travel-tips/static/js/main.913a13b7.chunk.js.map",
   "static/css/1.e68eb2a3.chunk.css": "/travel-tips/static/css/1.e68eb2a3.chunk.css",
   "static/js/1.f6dc2c92.chunk.js": "/travel-tips/static/js/1.f6dc2c92.chunk.js",
   "static/js/1.f6dc2c92.chunk.js.map": "/travel-tips/static/js/1.f6dc2c92.chunk.js.map",
@@ -16,9 +16,9 @@
   "static/media/see.73d0609a.svg": "/travel-tips/static/media/see.73d0609a.svg",
   "static/media/edit.6cda1fcf.svg": "/travel-tips/static/media/edit.6cda1fcf.svg",
   "static/media/star.7dc6e5d5.svg": "/travel-tips/static/media/star.7dc6e5d5.svg",
-  "static/css/main.97aa886a.chunk.css.map": "/travel-tips/static/css/main.97aa886a.chunk.css.map",
+  "static/css/main.8cde4135.chunk.css.map": "/travel-tips/static/css/main.8cde4135.chunk.css.map",
   "static/css/1.e68eb2a3.chunk.css.map": "/travel-tips/static/css/1.e68eb2a3.chunk.css.map",
   "index.html": "/travel-tips/index.html",
-  "precache-manifest.2320db92a15e522ba197f7e3149bd2bd.js": "/travel-tips/precache-manifest.2320db92a15e522ba197f7e3149bd2bd.js",
+  "precache-manifest.b94c0d600d277dbfd6e408f2b2a479be.js": "/travel-tips/precache-manifest.b94c0d600d277dbfd6e408f2b2a479be.js",
   "service-worker.js": "/travel-tips/service-worker.js"
 }
